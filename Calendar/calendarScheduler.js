@@ -1,5 +1,4 @@
 // calendarScheduler.js
-
 const fs = require('fs');
 const { google } = require('googleapis');
 const http = require('http');
