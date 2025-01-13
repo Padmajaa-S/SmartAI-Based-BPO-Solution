@@ -2,11 +2,10 @@
 AI for workflow and efficiency enhancement in Indian BPOs
 ![image](https://github.com/user-attachments/assets/45da1896-1366-4b1b-aa31-5f4a765dd9f2)
 
----
+
 
 SmartBridge AI is a comprehensive, AI-powered platform designed to enhance BPO workflows, improve agent efficiency, and ensure client satisfaction. By leveraging cutting-edge technologies like AI/ML, RPA, and blockchain, SmartBridge automates routine tasks, prioritizes cases intelligently, and provides a secure, user-friendly experience for agents and clients alike.
 
----
 
 #### **Key Features**
 1. **Sentiment-Based Prioritization**  
@@ -40,7 +39,6 @@ SmartBridge AI is a comprehensive, AI-powered platform designed to enhance BPO w
 - **Dynamic Calendar:** Schedules callbacks and meetings efficiently.
 ![image](https://github.com/user-attachments/assets/9e869d1f-1f2b-41e2-a49d-861274d6ef9a)
 
----
 
 #### **Client Workflow**
 - **Chatbot Assistance:** 24/7 support for basic queries.
@@ -60,7 +58,6 @@ SmartBridge AI is a comprehensive, AI-powered platform designed to enhance BPO w
 - **Cloud Services:** AWS SQS for real-time execution  
 - **Blockchain:** Secure and immutable data handling  
 
----
 
 #### **Impact Metrics**
 - Reduced case resolution time.  
